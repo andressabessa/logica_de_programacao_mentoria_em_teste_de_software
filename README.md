@@ -34,5 +34,14 @@ Este repositório contém exercícios práticos, explicações e resumos elabora
    ```bash
    cd logica_programacao_teste_software/
 
+   
+### Link para o curso:
+- Mentoria 2.0 [https://mentoria.juliodelima.com.br/).
+- Instrutor: Júlio de Lima.
+
+### Ferramentas e tecnologias que estão sendo utilizadas:
+
+<img src="https://skillicons.dev/icons?i=javascript,git,github,vscode&theme=dark" />
+
   
 
