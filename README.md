@@ -25,14 +25,24 @@ Este repositório contém exercícios práticos, explicações e resumos elabora
 
 ## Como usar
 
-1. Clone o repositório:  
+1. Abra o VS Code.
+2. Crie uma pasta onde deseja salvar seus repositórios, por exemplo: estudos.
+3. No VS Code, abra o terminal integrado  e navegue até essa pasta:
+      ```bash
+   cd caminho/para/a/pasta/estudos
+
+4. Clone o repositório:  
    ```bash
    git clone git@github.com:andressabessa/logica_programacao_teste_software.git
 
-2. Navegue até a pasta do projeto:
+5. Navegue até a pasta do projeto:
 
    ```bash
    cd logica_programacao_teste_software/
+
+6. Abra o projeto no VS Code (caso não tenha aberto ainda):
+   ```bash
+   code .
 
    
 ### Link para o curso:
